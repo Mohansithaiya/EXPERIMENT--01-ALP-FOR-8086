@@ -1,7 +1,7 @@
 # EXPERIMENT 01 LP FOR 8086
-Name : MOHAN S
-Roll no : 212223240094
-Date of experiment : 21/08/2025
+# Name : MOHAN S
+# Roll no : 212223240094
+# Date of experiment : 21/08/2025
 
 
 
